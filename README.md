@@ -5,7 +5,8 @@ Welcome to Yaniv Ridel's GitHub !
  Studying B.Sc Computer Science 
  
  My Projects :
- 1.  Project in course “Object-oriented programming"  - Shape Shifter Snake
+ 1.  Project in course “Object-oriented programming"  - Shape Shifter Snake.
+ 2.  Project building dynamic resturaunt site with coursera Web Developer - HTML,CSS and JavaScript course.
 
 
 
