@@ -7,6 +7,7 @@ Welcome to Yaniv Ridel's GitHub !
  My Projects :
  1.  Project in course “Object-oriented programming"  - Shape Shifter Snake.
  2.  Project building dynamic resturaunt site with coursera Web Developer - HTML,CSS and JavaScript course.
+ 3.  Final project in the course Software Engineering - designing online teaching system for private and group lessons.
 
 
 
