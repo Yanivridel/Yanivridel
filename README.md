@@ -9,8 +9,9 @@
 - **2.**  [Project](https://github.com/Yanivridel/HtmlCssJsCoursera) building dynamic resturaunt site with coursera Web Developer - HTML,CSS and JavaScript course.
 - **3.**  [Final project](https://github.com/Yanivridel/SWProject) in the course Software Engineering - designing online teaching system for private and group lessons.
 - **4.** [IITC - Fullstack Bootcamp](https://github.com/Yanivridel/IITC/tree/main) - full walkthough the course assignments solutions by dates.
-- **5.** [NorthwindDataBaseUI](https://github.com/Yanivridel/NorthwindDataBaseUI) - simple fullstack project using node.js & mssql
-- **6.** [WarehouseDataBaseUI](https://github.com/Yanivridel/WarehouseDataBaseUI) - simple fullstack project using node.js & building mssql from scratch
+- **5.** [NorthwindDataBaseUI](https://github.com/Yanivridel/NorthwindDataBaseUI) - simple fullstack project using node.js & mssql.
+- **6.** [WarehouseDataBaseUI](https://github.com/Yanivridel/WarehouseDataBaseUI) - simple fullstack project using node.js & building mssql from scratch.
+- **7** [Jest Project](https://github.com/Yanivridel/JestProject) - simple testing QA Project with Node.js, Express, Axios, using Fake Store API.
 
 
 
