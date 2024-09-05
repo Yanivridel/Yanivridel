@@ -5,7 +5,7 @@
  Looking for internship Student position as Software Engineer / Fullstack / Frontend / Backend.
  
 ## My Projects :
-- **1.** [Project](https://github.com/Yanivridel/ShapeShifterSnakeProject) in course “Object-oriented programming"  - Shape Shifter Snake.
+- **1.** [Final Project](https://github.com/Yanivridel/ShapeShifterSnakeProject) in course “Object-oriented programming" C# - Shape Shifter Snake.
 - **2.**  [Project](https://github.com/Yanivridel/HtmlCssJsCoursera) building dynamic resturaunt site with coursera Web Developer - HTML,CSS and JavaScript course.
 - **3.**  [Final project](https://github.com/Yanivridel/SWProject) in the course Software Engineering - designing online teaching system for private and group lessons.
 - **4.** [IITC - Fullstack Bootcamp](https://github.com/Yanivridel/IITC/tree/main) - full walkthough the course assignments solutions by dates.
