@@ -8,10 +8,12 @@
 - **1.** [Final Project](https://github.com/Yanivridel/ShapeShifterSnakeProject) in course “Object-oriented programming" C# - Shape Shifter Snake.
 - **2.**  [Project](https://github.com/Yanivridel/HtmlCssJsCoursera) building dynamic resturaunt site with coursera Web Developer - HTML,CSS and JavaScript course.
 - **3.**  [Final project](https://github.com/Yanivridel/SWProject) in the course Software Engineering - designing online teaching system for private and group lessons.
-- **4.** [IITC - Fullstack Bootcamp](https://github.com/Yanivridel/IITC/tree/main) - full walkthough the course assignments solutions by dates.
-- **5.** [NorthwindDataBaseUI](https://github.com/Yanivridel/NorthwindDataBaseUI) - simple fullstack project using node.js & mssql.
-- **6.** [WarehouseDataBaseUI](https://github.com/Yanivridel/WarehouseDataBaseUI) - simple fullstack project using node.js & building mssql from scratch.
-- **7.** [Jest Project](https://github.com/Yanivridel/JestProject) - simple testing QA Project with Node.js, Express, Axios, using Fake Store API.
+- **4.** [IITC - Fullstack Bootcamp](https://github.com/Yanivridel/IITC/tree/main) - Full walkthough the course assignments solutions by dates.
+- **5.** [NorthwindDataBaseUI](https://github.com/Yanivridel/NorthwindDataBaseUI) - Simple Fullstack project using Node.js & mssql.
+- **6.** [WarehouseDataBaseUI](https://github.com/Yanivridel/WarehouseDataBaseUI) - Simple Fullstack project using Node.js & building Mssql from scratch.
+- **7.** [Jest Project](https://github.com/Yanivridel/JestProject) - Simple testing QA project with Node.js, Express, Axios, using Fake Store API.
+- **8.** [MediaDB](https://github.com/Yanivridel/MediaDB) - Web application built with a React client and a Node.js server. It uses the Google Books and Spotify APIs to fetch data and stores information in a MongoDB database hosted on Atlas Cloud. The server runs on Google Cloud.
+
 
 
 
