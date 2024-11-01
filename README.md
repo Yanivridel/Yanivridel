@@ -13,7 +13,8 @@
 - **6.** [WarehouseDataBaseUI](https://github.com/Yanivridel/WarehouseDataBaseUI) - Simple Fullstack project using Node.js & building Mssql from scratch.
 - **7.** [Jest Project](https://github.com/Yanivridel/JestProject) - Simple testing QA project with Node.js, Express, Axios, using Fake Store API.
 - **8.** [TheMovieDBClone](https://github.com/Yanivridel/TheMovieDBClone) - Clone of TMDB using thier API to present various movies and save them as favourites.
-- **9.** [MediaDB](https://github.com/Yanivridel/MediaDB) - Web application built with a React client and a Node.js server. It uses the Google Books and Spotify APIs to fetch data and stores information in a MongoDB database hosted on Atlas Cloud. The server&client runs on Google Cloud.
+- **9.** [WeatherApp](https://github.com/Yanivridel/WeatherApp) - App that uses OpenWeathe Api to show weather in diffrent locations all over the world for the next 4 days.
+- **10.** [MediaDB](https://github.com/Yanivridel/MediaDB) - Web application built with a React client and a Node.js server. It uses the Google Books and Spotify APIs to fetch data and stores information in a MongoDB database hosted on Atlas Cloud. The server&client runs on Google Cloud.
 
 
 
