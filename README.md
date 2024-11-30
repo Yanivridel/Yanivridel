@@ -16,7 +16,10 @@
 - **9.** [WeatherApp](https://github.com/Yanivridel/WeatherApp) - App that uses OpenWeathe Api to show weather in diffrent locations all over the world for the next 4 days.
 - **10.** [MediaDB](https://github.com/Yanivridel/MediaDB) - Web application built with a React client and a Node.js server. It uses the Google Books and Spotify APIs to fetch data and stores information in a MongoDB database hosted on Atlas Cloud. The server&client runs on Google Cloud.
 
-
+<p align="left">
+<a href="https://github.com/Yanivridel/LeetCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yanivr" height="30" width="40" /></a>
+<a href="https://github.com/Yanivridel/Frontend-Mentor" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/47932038?s=280&v=4" alt=yanivridel-frontend-mentor height="30" width="30" /></a>
+</p>
 
 
   📫 Reach me on email : yanivridel@gmail.com
