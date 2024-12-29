@@ -1,7 +1,7 @@
 # Welcome to Yaniv Ridel's GitHub !
 
 
- I’m currently a student on my 2nd year in HIT - Holon Institute of Technology, Studying B.Sc Computer Science.
+ I’m currently a student on my 3th and last year in HIT - Holon Institute of Technology, Studying B.Sc Computer Science.
  Looking for internship Student position as Software Engineer / Fullstack / Frontend / Backend.
  
 ## My Projects :
