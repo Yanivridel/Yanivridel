@@ -83,5 +83,3 @@
   </picture>
 </p>
 
-## 📈 Contribution Graph:
-
