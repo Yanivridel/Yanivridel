@@ -4,17 +4,59 @@
  I’m currently a student on my 3th and last year in HIT - Holon Institute of Technology, Studying B.Sc Computer Science.
  Looking for internship Student position as Software Engineer / Fullstack / Frontend / Backend.
  
-## My Projects :
-- **1.** [Final Project](https://github.com/Yanivridel/ShapeShifterSnakeProject) in course “Object-oriented programming" C# - Shape Shifter Snake.
-- **2.**  [Project](https://github.com/Yanivridel/HtmlCssJsCoursera) building dynamic resturaunt site with coursera Web Developer - HTML,CSS and JavaScript course.
-- **3.**  [Final project](https://github.com/Yanivridel/SWProject) in the course Software Engineering - designing online teaching system for private and group lessons.
-- **4.** [IITC - Fullstack Bootcamp](https://github.com/Yanivridel/IITC/tree/main) - Full walkthough the course assignments solutions by dates.
-- **5.** [NorthwindDataBaseUI](https://github.com/Yanivridel/NorthwindDataBaseUI) - Simple Fullstack project using Node.js & mssql.
-- **6.** [WarehouseDataBaseUI](https://github.com/Yanivridel/WarehouseDataBaseUI) - Simple Fullstack project using Node.js & building Mssql from scratch.
-- **7.** [Jest Project](https://github.com/Yanivridel/JestProject) - Simple testing QA project with Node.js, Express, Axios, using Fake Store API.
-- **8.** [TheMovieDBClone](https://github.com/Yanivridel/TheMovieDBClone) - Clone of TMDB using thier API to present various movies and save them as favourites.
-- **9.** [WeatherApp](https://github.com/Yanivridel/WeatherApp) - App that uses OpenWeathe Api to show weather in diffrent locations all over the world for the next 4 days.
-- **10.** [MediaDB](https://github.com/Yanivridel/MediaDB) - Web application built with a React client and a Node.js server. It uses the Google Books and Spotify APIs to fetch data and stores information in a MongoDB database hosted on Atlas Cloud. The server&client runs on Google Cloud.
+## 🚀 My Projects :
+<div align="center">
+
+ [<img src="https://img.shields.io/badge/-Shape Shifter Snake-50b284?style=for-the-badge&logo=csharp&logoColor=white" />](https://github.com/Yanivridel/ShapeShifterSnakeProject)
+ [<img src="https://img.shields.io/badge/-Restaurant%20Site-50b284?style=for-the-badge&logo=javascript&logoColor=white" />](https://github.com/Yanivridel/HtmlCssJsCoursera)
+ [<img src="https://img.shields.io/badge/-Online%20Teaching%20System-50b284?style=for-the-badge&logo=react&logoColor=white" />](https://github.com/Yanivridel/SWProject)
+ 
+ [<img src="https://img.shields.io/badge/-IITC%20Bootcamp-50b284?style=for-the-badge&logo=node.js&logoColor=white" />](https://github.com/Yanivridel/IITC/tree/main)
+ [<img src="https://img.shields.io/badge/-Northwind%20DB%20UI-50b284?style=for-the-badge&logo=node.js&logoColor=white" />](https://github.com/Yanivridel/NorthwindDataBaseUI)
+ [<img src="https://img.shields.io/badge/-Warehouse%20DB%20UI-50b284?style=for-the-badge&logo=node.js&logoColor=white" />](https://github.com/Yanivridel/WarehouseDataBaseUI)
+ [<img src="https://img.shields.io/badge/-Jest%20Testing-50b284?style=for-the-badge&logo=jest&logoColor=white" />](https://github.com/Yanivridel/JestProject)
+ 
+ [<img src="https://img.shields.io/badge/-Movie%20DB%20Clone-50b284?style=for-the-badge&logo=react&logoColor=white" />](https://github.com/Yanivridel/TheMovieDBClone)
+ [<img src="https://img.shields.io/badge/-Weather%20App-50b284?style=for-the-badge&logo=react&logoColor=white" />](https://github.com/Yanivridel/WeatherApp)
+ [<img src="https://img.shields.io/badge/-MediaDB-50b284?style=for-the-badge&logo=mongodb&logoColor=white" />](https://github.com/Yanivridel/MediaDB)
+ 
+ [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://github.com/Yanivridel/LeetCode) 
+ [<img src="https://img.shields.io/badge/-Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" />](https://github.com/Yanivridel/Frontend-Mentor)
+
+
+</div>
+
+
+
+## 🌐 Socials:
+<p align="left">
+  <a href="mailto:yanivridel@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" width="30" />
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yaniv-ridel-932368287" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/yanivridel" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/yanivridel" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://discord.com/channels/rorschach543" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" />
+  </a>
+</p>
+
+
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
 
 <p align="left">
 <a href="https://github.com/Yanivridel/LeetCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yanivr" height="30" width="40" /></a>
@@ -22,38 +64,21 @@
 </p>
 
 
-  📫 Reach me on email : yanivridel@gmail.com
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yaniv-ridel-932368287" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yaniv ridel" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yanivridel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yaniv ridel" height="30" width="40" /></a>
-<a href="https://instagram.com/yanivridel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanivridel" height="30" width="40" /></a>
-<a href="https://discord.com/channels/rorschach543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7150" height="30" width="40" /></a>
+
+
+## 📊 GitHub Stats:
+![](https://github-profile-trophy.vercel.app/?username=Yanivridel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=20)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yanivridel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="34.2%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanivridel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="27%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanivridel&theme=vue-dark&hide_border=false" width="37.7%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
 
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanivridel" alt="yanivridel" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanivridel&show_icons=true&locale=en&layout=compact" alt="yanivridel" /></p>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
