@@ -51,3 +51,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanivridel&show_icons=true&locale=en&layout=compact" alt="yanivridel" /></p>
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yanivridel/Yanivridel/output/github-snake.svg" />
+</picture>
