@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yanivridel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="34.2%" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanivridel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="27%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanivridel&theme=vue-dark&hide_border=false" width="37.7%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yanivridel&theme=vue-dark&hide_border=false" width="37.7%" />
  
  [![Yaniv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yanivridel&theme=vue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
