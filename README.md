@@ -29,7 +29,8 @@
  
  [<img src="https://img.shields.io/badge/-Skillzy-50b284?style=for-the-badge&logo=mongodb&logoColor=white" />](https://github.com/Yanivridel/Skillzy)
  [<img src="https://img.shields.io/badge/-Booking Clone-50b284?style=for-the-badge&logo=airbnb&logoColor=white" />](https://github.com/Yanivridel/BookingClone)
-  [<img src="https://img.shields.io/badge/-Android Recipe Manager-50b284?style=for-the-badge&logo=android&logoColor=white" />](https://github.com/Yanivridel/Android-Recipe-Manager)
+  [<img src="https://img.shields.io/badge/-Recipe Manager-50b284?style=for-the-badge&logo=android&logoColor=white" />](https://github.com/Yanivridel/Android-Recipe-Manager)
+  [<img src="https://img.shields.io/badge/-Instagram-50b284?style=for-the-badge&logo=android&logoColor=white" />](https://github.com/Yanivridel/Android2-FinalProject)
 
 
 
