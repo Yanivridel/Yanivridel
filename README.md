@@ -2,11 +2,11 @@
 <div align="center">
 
 <!-- Title Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50b284&height=200&section=header&text=Yaniv%20Ridel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Computer%20Science%20Student&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50b284&height=200&section=header&text=Yaniv%20Ridel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@monday.com%20|%20CS%20Student&descAlignY=58&descAlign=50"/>
 
 <!-- About Me -->
 ### 🎓 B.Sc Computer Science Student @ HIT - Holon Institute of Technology
-### 💼 Seeking Software Engineering Internship Opportunities
+### 💼 Softwate Engineer @ monday.com - Apps Framework
 ![Profile Views](https://komarev.com/ghpvc/?username=Yanivridel&color=50b284&style=flat)
 
 
@@ -72,7 +72,14 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=Yanivridel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=20)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Yanivridel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15"
+    style="max-width: 80%;"
+    alt="GitHub Trophies"
+  />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yanivridel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="34.2%" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanivridel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="27%" />
