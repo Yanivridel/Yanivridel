@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Title Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50b284&height=200&section=header&text=Yaniv%20Ridel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@monday.com%20|%20CS%20Student&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50b284&height=200&section=header&text=Yaniv%20Ridel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@monday.com%20|%20B.Sc%20Degree&descAlignY=58&descAlign=50"/>
 
 <!-- About Me -->
 ### 🎓 B.Sc Computer Science Student @ HIT - Holon Institute of Technology
